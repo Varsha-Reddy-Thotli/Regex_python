@@ -1,0 +1,7 @@
+Details: 
+
+Name: varsha
+Date of Birth: 26-04-2020
+Email Id: abc12@gmail.com
+Gender: Female
+Mobile Number: 8654139732
